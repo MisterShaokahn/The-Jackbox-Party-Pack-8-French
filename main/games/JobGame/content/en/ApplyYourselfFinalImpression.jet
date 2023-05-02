@@ -1,0 +1,102 @@
+{
+ "content": [
+  {
+   "firstPrompt": "J'AI {{BLANK}}",
+   "id": "85487",
+   "isValid": "",
+   "secondPrompt": "J'AI besoin de {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE SUIS {{BLANK}}",
+   "id": "85488",
+   "isValid": "",
+   "secondPrompt": "JE VEUX {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE VAIS {{BLANK}}",
+   "id": "85489",
+   "isValid": "",
+   "secondPrompt": "JE NE VAIS PAS {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE DONNE {{BLANK}}",
+   "id": "85490",
+   "isValid": "",
+   "secondPrompt": "JE PRENDS {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE PEUX {{BLANK}}",
+   "id": "85491",
+   "isValid": "",
+   "secondPrompt": "JE NE PEUX PAS {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "J'ESPERE {{BLANK}}",
+   "id": "85492",
+   "isValid": "",
+   "secondPrompt": "JE SAIS {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE DIS {{BLANK}}",
+   "id": "85493",
+   "isValid": "",
+   "secondPrompt": "JE FAIS {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE CREE {{BLANK}}",
+   "id": "85494",
+   "isValid": "",
+   "secondPrompt": "JE DETRUITS {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE CHERCHE {{BLANK}}",
+   "id": "85495",
+   "isValid": "",
+   "secondPrompt": "JE TROUVE {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE MERITE {{BLANK}}",
+   "id": "85496",
+   "isValid": "",
+   "secondPrompt": "JE RECOIS {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE REVE {{BLANK}}",
+   "id": "85497",
+   "isValid": "",
+   "secondPrompt": "J'AI PEUR {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE PROMETS {{BLANK}}",
+   "id": "85498",
+   "isValid": "",
+   "secondPrompt": "JE DELIVRE {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "JE CROIS {{BLANK}}",
+   "id": "85499",
+   "isValid": "",
+   "secondPrompt": "JE NE CROIS PAS {{BLANK}}",
+   "x": false
+  },
+  {
+   "firstPrompt": "J'ADORE {{BLANK}}",
+   "id": "85500",
+   "isValid": "",
+   "secondPrompt": "JE DETESTE {{BLANK}}",
+   "x": false
+  }
+ ]
+}
