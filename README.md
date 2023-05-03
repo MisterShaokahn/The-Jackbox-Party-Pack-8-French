@@ -12,6 +12,6 @@ Ce repository contient les traductions de la communauté française pour le jeu 
 | The Poll Mine  | ⚪ | ✅ | ❌ | ✅ | ❌ | Pachat, [Alexis](https://github.com/AlexisL61) et fizzrocks |
 | Weapon's Drawn | ✅ | ❌ | ❌ | ❌ | ❌ | MisterShaokahn#0765 |
 
-✅ Terminé
-⚪ Commencé mais non terminé
+✅ Terminé</br>
+⚪ Commencé mais non terminé</br>
 ❌ Non commencé
