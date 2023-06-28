@@ -37,6 +37,6 @@ jobs:
       with:
          artifacts: 'outputs/JPP8.zip'
          token: ${{ secrets.GITHUB_TOKEN }}
-         tag: ${{ echo "$VERSION" }}
+         tag: ${{ "$VERSION" }}
          prerelease: false
          allowUpdates: true
