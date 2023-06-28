@@ -31,6 +31,7 @@ jobs:
     needs: 
       - retrievingVersion
     steps: 
+      - uses: actions/checkout@v3
       - name: Zipping windows release
         working-directory: main
         run: |
