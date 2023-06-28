@@ -35,8 +35,8 @@ jobs:
     - name: Upload release onto Github
       uses: ncipollo/release-action@v1
       with:
-         artifacts: '../outputs/JPP8.zip'
+         artifacts: 'outputs/JPP8.zip'
          token: ${{ secrets.GITHUB_TOKEN }}
-         tag: "${VERSION}"
+         tag: $(echo "${VERSION}")
          prerelease: false
          allowUpdates: true
