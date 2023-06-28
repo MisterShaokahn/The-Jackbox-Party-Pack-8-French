@@ -26,23 +26,17 @@ jobs:
           VERSION="${{fromJson(steps.set_var.outputs.packageJson).buildVersion}}"
           echo "version=${VERSION}" >> $GITHUB_OUTPUT
       name: Retrieve Release Version         
- upload:
-    runs-on: ubuntu-latest
-    needs: 
-      - retrievingVersion
-    steps: 
-      - uses: actions/checkout@v3
-      - run: mkdir -p outputs
-      - run: echo ${{ needs.retrievingVersion.outputs.version }}
-      - name: Zipping windows release
-        working-directory: main
-        run: |
+    - run: mkdir -p outputs
+    - run: echo ${VERSION}
+    - name: Zipping windows release
+      working-directory: main
+      run: |
           zip -r ../outputs/JPP8.zip *
-      - name: Upload release onto Github
-        uses: ncipollo/release-action@v1
-        with:
+    - name: Upload release onto Github
+      uses: ncipollo/release-action@v1
+      with:
          artifacts: '../outputs/JPP8.zip'
          token: ${{ secrets.GITHUB_TOKEN }}
-         tag: ${{ needs.retrievingVersion.outputs.version }}
+         tag: ${VERSION}
          prerelease: false
          allowUpdates: true
