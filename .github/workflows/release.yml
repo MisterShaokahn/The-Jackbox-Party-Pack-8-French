@@ -27,7 +27,7 @@ jobs:
           echo "version=${VERSION}" >> $GITHUB_OUTPUT
       name: Retrieve Release Version         
     - run: mkdir -p outputs
-    - run: echo ${VERSION}
+    - run: echo $VERSION
     - name: Zipping windows release
       working-directory: main
       run: |
@@ -37,6 +37,6 @@ jobs:
       with:
          artifacts: '../outputs/JPP8.zip'
          token: ${{ secrets.GITHUB_TOKEN }}
-         tag: ${VERSION}
+         tag: $VERSION
          prerelease: false
          allowUpdates: true
