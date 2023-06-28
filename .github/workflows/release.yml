@@ -33,6 +33,7 @@ jobs:
     steps: 
       - uses: actions/checkout@v3
       - run: mkdir -p outputs
+      - run: echo ${{ needs.retrievingVersion.outputs.version }}
       - name: Zipping windows release
         working-directory: main
         run: |
