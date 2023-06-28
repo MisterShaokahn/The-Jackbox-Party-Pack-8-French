@@ -32,6 +32,7 @@ jobs:
       - retrievingVersion
     steps: 
       - uses: actions/checkout@v3
+      - run: mkdir -p outputs
       - name: Zipping windows release
         working-directory: main
         run: |
