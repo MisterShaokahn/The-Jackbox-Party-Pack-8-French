@@ -1,5 +1,1 @@
-files:
-  - source: main
-    ignore:
-      - '*.swf'
-    translation: translated
+files: []
