@@ -33,7 +33,7 @@
             "HIDE": "Cacher",
             "UNHIDE": "Ne plus cacher",
             "HIDDEN_ROOM_CODE": "?????",
-            "JOIN": "Rejoignez sur jbfr.fr",
+            "JOIN": "LaBoxDeJack.fr",
             "PLAY": "Jouer",
             "SETTINGS": "Paramètres",
             "BACK_TO_PACK": "Retour",
@@ -88,7 +88,7 @@
 
             "GLOBAL_ROOM_CODE_LABEL": "Code du salon",
             "GLOBAL_ROOM_CODE_SIMPLE_LABEL": "Code du salon",
-            "GLOBAL_ROOM_CODE_REMINDER_LABEL": "jb<br/>fr<br/>.fr",
+            "GLOBAL_ROOM_CODE_REMINDER_LABEL": "LaBox<br/>DeJack<br/>.fr",
 
             "FILTER_PLAYERNAME": "Filter Player Name Prompts",
             "FILTER_PLAYERNAME_DESCRIPTION": "Remove prompts that incorporate the names of the players.",
