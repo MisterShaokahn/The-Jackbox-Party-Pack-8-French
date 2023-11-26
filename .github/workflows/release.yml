@@ -35,7 +35,7 @@ jobs:
     - name: Remove audio files
       working-directory: main
       run: |
-        rm -rf **/TalkshowExport/project/media/**
+        rm -rf games/SurveyBomb/TalkshowExport/project/media
     - name: Zipping release without voice
       working-directory: main
       run: |
