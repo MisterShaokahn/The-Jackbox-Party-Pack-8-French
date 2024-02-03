@@ -3,7 +3,7 @@
     {
       "id": "76147",
       "isValid": "",
-      "prompt": "Quelle est une terrible devise de vie à avoir ?",
+      "prompt": "Donner une terrible devise de vie à avoir ?",
       "x": false
     },
     {
@@ -21,7 +21,7 @@
     {
       "id": "76150",
       "isValid": "",
-      "prompt": "Qu'est-ce que vous diriez à votre jeune vous ?",
+      "prompt": "Qu'est-ce que vous diriez à votre vous du passé ?",
       "x": false
     },
     {
@@ -45,13 +45,13 @@
     {
       "id": "76154",
       "isValid": "",
-      "prompt": "Qu'est-ce que vous avez déjà entendu quelqu'un dire ?",
+      "prompt": "Qu'avez vous entendu de la bouche de quelqu'un récemment ?",
       "x": false
     },
     {
       "id": "76155",
       "isValid": "",
-      "prompt": "Quelle serait une citation mémorable à se rappeler pendant votre parcours scolaire ?",
+      "prompt": "Quelle serait une citation mémorable à se rappeler de votre parcours scolaire ?",
       "x": false
     },
     {
@@ -69,7 +69,7 @@
     {
       "id": "76158",
       "isValid": "",
-      "prompt": "Récemment, qu'elle est la chose où vous avez eu des ennuis car vous l'avez fait?",
+      "prompt": "Qu'est ce qui vous a ennuyé récemment ?",
       "x": false
     },
     {
@@ -81,7 +81,7 @@
     {
       "id": "76161",
       "isValid": "",
-      "prompt": "Que faites-vous habituellement le weekend?",
+      "prompt": "Que faites-vous habituellement le weekend ?",
       "x": false
     },
     {
@@ -111,7 +111,7 @@
     {
       "id": "76166",
       "isValid": "",
-      "prompt": "Décrivez un pas d'une danse que vous aimez (réelle ou imaginaire).",
+      "prompt": "Décrivez un pas d'une danse que vous aimez (réel ou imaginaire).",
       "x": false
     },
     {
@@ -147,7 +147,7 @@
     {
       "id": "76173",
       "isValid": "",
-      "prompt": "Décrivez ce qui se passe dans une émission de télévision que vous avez regardée.",
+      "prompt": "Décrivez ce qui se passe dans une émission de télévision que vous avez regardé.",
       "x": false
     },
     {
@@ -159,7 +159,7 @@
     {
       "id": "76175",
       "isValid": "",
-      "prompt": "Décrivez votre possession physique préférée.",
+      "prompt": "Décrivez votre position préférée.",
       "x": false
     },
     {
@@ -189,7 +189,7 @@
     {
       "id": "76246",
       "isValid": "",
-      "prompt": "Que faites-vous lors d'une journée idéale de vacances?",
+      "prompt": "Que faites-vous lors d'une journée idéale en vacance ?",
       "x": false
     },
     {
@@ -219,7 +219,7 @@
     {
       "id": "76251",
       "isValid": "",
-      "prompt": "Si un chien pouvait écrire, qu'est-ce qu'il vous enverrait un texto pendant que vous êtes au travail ?",
+      "prompt": "Si un chien pouvait écrire, quel texte vous enverrait-il pendant que vous êtes au travail ?",
       "x": false
     },
     {
@@ -237,7 +237,7 @@
     {
       "id": "76263",
       "isValid": "",
-      "prompt": "Décrivez le processus de construction d'un nouveau sandwich. (Créez-en un nouveau.)",
+      "prompt": "Décrivez le processus de construction d'un nouveau sandwich. (Créez-en un nouveau)",
       "x": false
     },
     {
@@ -279,13 +279,13 @@
     {
       "id": "76271",
       "isValid": "",
-      "prompt": "Si vous vous réveilliez dans un corps différent, comment convainqueriez-vous vos amis et votre famille que c'était vous ?",
+      "prompt": "Si vous vous réveillez dans un corps différent, comment convainquez-vous vos amis et votre famille que c'est vous ?",
       "x": false
     },
     {
       "id": "76273",
       "isValid": "",
-      "prompt": "Quelle est votre stratégie habituelle dans les escape rooms (ou toute activité de groupe collaboratif) ?",
+      "prompt": "Quelle est votre stratégie habituelle dans les escape games (ou toute activité de groupe collaboratif) ?",
       "x": false
     },
     {
@@ -321,13 +321,13 @@
     {
       "id": "76294",
       "isValid": "",
-      "prompt": "Racontez une une citation étrange que vous avez rencontré ?",
+      "prompt": "Racontez une citation étrange que vous avez rencontré ?",
       "x": true
     },
     {
       "id": "76296",
       "isValid": "",
-      "prompt": "Quelles paroles de chanson vous vous chantiez au lycée ?",
+      "prompt": "Quelles paroles de chanson vous chantiez au lycée ?",
       "x": false
     },
     {
@@ -351,19 +351,19 @@
     {
       "id": "76301",
       "isValid": "",
-      "prompt": "Quelle est la chose la plus étrange que vous ayez jamais vue faire sur scène ?",
+      "prompt": "Quelle est la chose la plus étrange que vous avez vue sur une scène ?",
       "x": false
     },
     {
       "id": "76302",
       "isValid": "",
-      "prompt": "Quelle est la chose la plus mignonne que vous ayez jamais vue faire à un bébé ? (Inventez quelque chose si vous n'avez jamais vu de bébé.)",
+      "prompt": "Quelle est la chose la plus mignonne que vous avez fait à un bébé ? (Inventez quelque chose si vous n'avez jamais vu de bébé.)",
       "x": false
     },
     {
       "id": "76303",
       "isValid": "",
-      "prompt": "Vous êtes à une fête. Votre chanson préférée arrive. Que faises-vous?",
+      "prompt": "Vous êtes à une fête. Votre chanson préférée arrive. Que faites-vous ?",
       "x": false
     },
     {
@@ -393,7 +393,7 @@
     {
       "id": "76325",
       "isValid": "",
-      "prompt": "Que voudriez-vous dire à un escroc téléphonique ?",
+      "prompt": "Que voudriez-vous dire à un escroc au téléphone ?",
       "x": false
     },
     {
@@ -405,7 +405,7 @@
     {
       "id": "76327",
       "isValid": "",
-      "prompt": "Décrivez ce que c'est que d'assister à une fête où vous ne connaissez personne.",
+      "prompt": "Décrivez ce que c'est d'assister à une fête où vous ne connaissez personne.",
       "x": false
     },
     {
@@ -609,7 +609,7 @@
     {
       "id": "76493",
       "isValid": "",
-      "prompt": "Quelles sont les étapes pour faire fonctionner un extincteur? (Inventez-les si vous n'êtes pas sûr.)",
+      "prompt": "Quelles sont les étapes pour faire fonctionner un extincteur ? (Inventez-les si vous n'êtes pas sûr.)",
       "x": false
     },
     {
@@ -639,7 +639,7 @@
     {
       "id": "76502",
       "isValid": "",
-      "prompt": "Quelle est l'age requis pour regarder le film de votre vie, et pourquoi ?",
+      "prompt": "Quel est l'age requis pour regarder le film de votre vie, et pourquoi ?",
       "x": true
     },
     {
@@ -663,7 +663,7 @@
     {
       "id": "76508",
       "isValid": "",
-      "prompt": "Quelle est votre excuse préférée pour sortir des occasions sociales ?",
+      "prompt": "Quelle est votre excuse préférée pour ne pas sortir avec des amis ?",
       "x": false
     },
     {
@@ -861,7 +861,7 @@
     {
       "id": "76675",
       "isValid": "",
-      "prompt": "Quelles sont les parties essentielles d'un moment de bain parfait ?",
+      "prompt": "Expliquez moi comment vous prenez un bain.",
       "x": false
     },
     {
@@ -957,7 +957,7 @@
     {
       "id": "76709",
       "isValid": "",
-      "prompt": "Résumez votre chanson préférée en une phrase. (Ou celui que vous souhaiteriez exister.)",
+      "prompt": "Résumez votre chanson préférée en une phrase",
       "x": false
     },
     {
@@ -993,7 +993,7 @@
     {
       "id": "76718",
       "isValid": "",
-      "prompt": "Quelle bêtise as-tu tenté étant enfant ?",
+      "prompt": "Quelle bêtise avez-vous tenté étant enfant ?",
       "x": false
     },
     {
@@ -1029,7 +1029,7 @@
     {
       "id": "76741",
       "isValid": "",
-      "prompt": "Qu'elle est une phrase relativement normale à dire lors d'un massage ?",
+      "prompt": "Donnez une phrase relativement normale à dire lors d'un massage ?",
       "x": true
     },
     {
@@ -1113,7 +1113,7 @@
     {
       "id": "76816",
       "isValid": "",
-      "prompt": "Quel est le devoir le plus important de la demoiselle d'honneur ?",
+      "prompt": "Quel est le devoir le plus important d'une demoiselle d'honneur ?",
       "x": false
     },
     {
@@ -1131,7 +1131,7 @@
     {
       "id": "76819",
       "isValid": "",
-      "prompt": "Si vous deviez deviner, quelles sont les deux règles du rugby ? (Ou deux règles que vous souhaiteriez exister.)",
+      "prompt": "Si vous deviez deviner, quelles sont les deux règles du rugby ?",
       "x": false
     },
     {
@@ -1215,7 +1215,7 @@
     {
       "id": "76847",
       "isValid": "",
-      "prompt": "Quelle est une ligne d'une comptine dont vous pensez vous souvenir ?",
+      "prompt": "Donnez une ligne d'une comptine dont vous pensez vous souvenir ?",
       "x": false
     },
     {
@@ -1443,7 +1443,7 @@
     {
       "id": "77695",
       "isValid": "",
-      "prompt": "Quelle est l'expérience sur laquelle vous ferez toujours des folies ?",
+      "prompt": "Quelle est la chose sur laquelle vous ferez toujours des folies ?",
       "x": false
     },
     {
