@@ -1605,13 +1605,13 @@
     {
       "id": "77818",
       "isValid": "",
-      "prompt": "Rapidement ! Dites-moi un mensonge!",
+      "prompt": "Rapidement ! Dites-moi un mensonge !",
       "x": false
     },
     {
       "id": "77819",
       "isValid": "",
-      "prompt": "Comment fonctionne la pluie ? (Invente quelque chose si tu ne sais pas !)",
+      "prompt": "Comment fonctionne la pluie ? (Inventez quelque chose si vous ne savez pas !)",
       "x": false
     },
     {
@@ -1629,7 +1629,7 @@
     {
       "id": "77828",
       "isValid": "",
-      "prompt": "Expliquez pourquoi les loups hurlent à la lune. (Faites votre meilleure estimation.)",
+      "prompt": "Expliquez pourquoi les loups hurlent à la lune.",
       "x": false
     },
     {
@@ -1641,7 +1641,7 @@
     {
       "id": "77831",
       "isValid": "",
-      "prompt": "Quelle est la meilleure partie de votre trajet du matin? (Ou votre routine avant le travail.)",
+      "prompt": "Quelle est votre routine avant le travail ?",
       "x": false
     },
     {
@@ -1671,7 +1671,7 @@
     {
       "id": "77836",
       "isValid": "",
-      "prompt": "Quelle est la meilleure lorsque vous vous déplacez à travers le pays?",
+      "prompt": "Quelle est la meilleure chose lorsque vous vous déplacez à travers le pays?",
       "x": false
     },
     {
@@ -1725,13 +1725,13 @@
     {
       "id": "77930",
       "isValid": "",
-      "prompt": "Qu'est-ce qui vous manquera de faire sur Terre lorsque nous partirons tous vivre sur la Lune ?",
+      "prompt": "Qu'est-ce qui vous manquera sur Terre lorsque nous partirons tous vivre sur la Lune et pourquoi ?",
       "x": false
     },
     {
       "id": "77931",
       "isValid": "",
-      "prompt": "Décrivez un souvenir que vous avez lorsque vous étiez très jeune.",
+      "prompt": "Décrivez un souvenir que vous avez eu lorsque vous étiez très jeune.",
       "x": false
     },
     {
@@ -1749,7 +1749,7 @@
     {
       "id": "77935",
       "isValid": "",
-      "prompt": "Qu'est-ce qu'une personne pourrait faire pour garantir qu'elle serait votre ennemi mortel à vie ?",
+      "prompt": "Qu'est-ce qu'une personne pourrait faire pour qu'elle votre ennemi pour la vie ?",
       "x": false
     },
     {
@@ -1761,7 +1761,7 @@
     {
       "id": "77937",
       "isValid": "",
-      "prompt": "Décrivez quelque chose qui s'est passé lors d'une sortie scolaire. (Ou quelque chose que vous souhaiteriez qu'il se produise.)",
+      "prompt": "Décrivez quelque chose qui s'est passé lors d'une sortie scolaire.",
       "x": false
     },
     {
@@ -1803,7 +1803,7 @@
     {
       "id": "78032",
       "isValid": "",
-      "prompt": "Décrivez les étapes physiques impliquées dans votre pose de yoga préférée. (Ou en inventer un !)",
+      "prompt": "Décrivez les étapes pour faire votre pose de yoga préférée. (Ou inventez une pose de yoga !)",
       "x": false
     },
     {
@@ -1821,13 +1821,13 @@
     {
       "id": "78038",
       "isValid": "",
-      "prompt": "Sans le nommer, décrivez votre œuvre d'art préférée. (Ou une pièce que vous souhaiteriez exister.)",
+      "prompt": "Sans la nommer, décrivez votre oeuvre d'art préférée. (Ou inventez une oeuvre d'art)",
       "x": false
     },
     {
       "id": "78042",
       "isValid": "",
-      "prompt": "Qu'est-ce qu'une VRAIE petite chose qui te rend VRAIMENT heureux ?",
+      "prompt": "Donnez une petite chose qui vous rend VRAIMENT heureux ?",
       "x": false
     },
     {
@@ -1845,7 +1845,7 @@
     {
       "id": "78070",
       "isValid": "",
-      "prompt": "Que feriez-vous si vous étiez enfermé dans un zoo pendant la nuit ? (Et votre sécurité personnelle était-elle garantie ?)",
+      "prompt": "Que feriez-vous si vous étiez enfermé dans un zoo pendant la nuit ? (Parlez-nous de votre sécurité personnelle !)",
       "x": false
     },
     {
@@ -1875,7 +1875,7 @@
     {
       "id": "78077",
       "isValid": "",
-      "prompt": "Quelle serait une nouvelle règle amusante pour dans ce jeu ?",
+      "prompt": "Quelle serait une nouvelle règle amusante pour ce jeu ?",
       "x": false
     },
     {
@@ -1893,13 +1893,13 @@
     {
       "id": "78110",
       "isValid": "",
-      "prompt": "Si vous deviez donner un discourd, de quoi parleriez-vous et pourquoi ?",
+      "prompt": "Si vous deviez donner un discours, de quoi parleriez-vous et pourquoi ?",
       "x": false
     },
     {
       "id": "78116",
       "isValid": "",
-      "prompt": "Décrivez brièvement votre premier coup de cœur. (Ou en inventer un !)",
+      "prompt": "Décrivez brièvement votre premier coup de coeur. (Ou inventez en un !)",
       "x": false
     },
     {
@@ -1911,7 +1911,7 @@
     {
       "id": "78120",
       "isValid": "",
-      "prompt": "Que diriez-vous à un enfant qui a poussé son frère ou sa sœur ?",
+      "prompt": "Que diriez-vous à un enfant qui a poussé son frère ou sa soeur ?",
       "x": false
     },
     {
@@ -1923,7 +1923,7 @@
     {
       "id": "78239",
       "isValid": "",
-      "prompt": "Comment aimez-vous passer vos vacances préférées ?",
+      "prompt": "Comment aimez-vous passer vos vacances ?",
       "x": false
     },
     {
@@ -1935,7 +1935,7 @@
     {
       "id": "78246",
       "isValid": "",
-      "prompt": "Décrivez un événement météorologique intéressant dont vous avez été témoin. (Ou entendu parler!)",
+      "prompt": "Décrivez un événement météorologique intéressant dont vous avez été témoin. (Ou une événement donc vous avez entendu parlé !)",
       "x": false
     },
     {
@@ -1959,13 +1959,13 @@
     {
       "id": "78251",
       "isValid": "",
-      "prompt": "Si tu courais... comment ça se passerait ?",
+      "prompt": "Si vous couriez... comment ça se passerait ?",
       "x": false
     },
     {
       "id": "78253",
       "isValid": "",
-      "prompt": "Quelle est la meilleure chose que quelqu'un ait écrite dans votre annuaire ? (Ou vous aimeriez qu'ils écrivent.)",
+      "prompt": "Quelle est la meilleure chose que quelqu'un ait écrite sur vous ? (Si vous ne savez pas, inventez !)",
       "x": false
     },
     {
@@ -1977,7 +1977,7 @@
     {
       "id": "78291",
       "isValid": "",
-      "prompt": "Décrivez une fois où vous avez tenu tête à une figure d'autorité. (Ou souhaite que vous l'ayez fait au moins une fois.)",
+      "prompt": "Décrivez une fois où vous avez tenu tête à une figure d'autorité. (Si vous ne savez pas, inventez !)",
       "x": false
     },
     {
@@ -1989,7 +1989,7 @@
     {
       "id": "78294",
       "isValid": "",
-      "prompt": "Quelle est quelque chose que vous avez fait et dont vous êtes vraiment fier ? (Grand ou petit!)",
+      "prompt": "Quelle est quelque chose que vous avez fait et dont vous êtes vraiment fier ?",
       "x": false
     },
     {
@@ -2007,7 +2007,7 @@
     {
       "id": "78452",
       "isValid": "",
-      "prompt": "Comment pensez-vous que la crème glacée est faite?",
+      "prompt": "Comment pensez-vous que la crème glacée est faite ?",
       "x": false
     },
     {
@@ -2103,7 +2103,7 @@
     {
       "id": "79292",
       "isValid": "",
-      "prompt": "Quel événement plausible pourrait vous arriver qui vous ferait vaporiser du champagne sur vos proches ?",
+      "prompt": "Quel événement plausible pourrait vous arriver qui vous fdonnerait envie d'ouvrir une bouteille de champagne ?",
       "x": true
     },
     {
@@ -2133,7 +2133,7 @@
     {
       "id": "79520",
       "isValid": "",
-      "prompt": "Quelle est la tradition amusante de votre famille ou de votre groupe d'amis ? (Ou celui que vous aimeriez commencer.)",
+      "prompt": "Quelle est la tradition amusante de votre famille ou de votre groupe d'amis ? (Inventez une tradition si vous en avez pas !)",
       "x": false
     },
     {
@@ -2145,7 +2145,7 @@
     {
       "id": "79549",
       "isValid": "",
-      "prompt": "Décrivez la meilleure façon de garer une voiture en parallèle. (Inventez-le si vous ne savais pas !)",
+      "prompt": "Décrivez les étapes pour garer une voiture en parallèle.",
       "x": false
     },
     {
@@ -2199,7 +2199,7 @@
     {
       "id": "80039",
       "isValid": "",
-      "prompt": "Décrivez quelque chose d'ennuyeux qui vous est arrivé dans un avion. (Ou inventer quelque chose.)",
+      "prompt": "Décrivez quelque chose d'ennuyeux qui vous est arrivé dans un avion. (Ou inventez quelque chose.)",
       "x": false
     },
     {
@@ -2337,7 +2337,7 @@
     {
       "id": "80123",
       "isValid": "",
-      "prompt": "Quelle est quelque chose de vraiment dégoûtant que vous avez vu quelqu'un d'autre faire ? (Ou faites vous-même...)",
+      "prompt": "Quelle est quelque chose de vraiment dégoûtant qu'une autre personne a faite ?",
       "x": false
     },
     {
@@ -2361,7 +2361,7 @@
     {
       "id": "80127",
       "isValid": "",
-      "prompt": "Quelle est probablement la meilleure partie d'être extrêmement grand?",
+      "prompt": "Quelle est probablement la meilleure chose quand on est extrêmement grand?",
       "x": false
     },
     {
@@ -2373,31 +2373,31 @@
     {
       "id": "80129",
       "isValid": "",
-      "prompt": "Comment diriez-vous doucement à quelqu'un que son chat s'est enfui ?",
+      "prompt": "Comment diriez-vous de manière douce à quelqu'un que son chat s'est fait écrasé ?",
       "x": false
     },
     {
       "id": "80130",
       "isValid": "",
-      "prompt": "Comment diriez-vous gentiment à quelqu'un qu'il a été laissé à l'autel ?",
+      "prompt": "Comment diriez-vous gentiment à quelqu'un qu'il a été oublié  ?",
       "x": true
     },
     {
       "id": "80131",
       "isValid": "",
-      "prompt": "Comment diriez-vous doucement à quelqu'un que ses peintures sont terribles ?",
+      "prompt": "Comment diriez-vous doucement à quelqu'un que ses peintures sont horribles ?",
       "x": false
     },
     {
       "id": "80132",
       "isValid": "",
-      "prompt": "Comment diriez-vous gentiment à quelqu'un qu'il s'est fait une mauvaise coupe de cheveux ?",
+      "prompt": "Comment diriez-vous gentiment à quelqu'un que sa coupe de cheveux ne ressemble à rien ?",
       "x": false
     },
     {
       "id": "80190",
       "isValid": "",
-      "prompt": "Si vous étiez élu Empereur du Monde, quel serait votre premier acte ?",
+      "prompt": "Si vous étiez élu Empereur du Monde, que feriez vous en premier ?",
       "x": false
     },
     {
@@ -2415,7 +2415,7 @@
     {
       "id": "80193",
       "isValid": "",
-      "prompt": "Parlez-moi de votre pire expérience de concert. (Ou en inventer une.)",
+      "prompt": "Parlez-moi de votre pire expérience dans un concert. (Ou en inventer une.)",
       "x": false
     },
     {
@@ -2427,7 +2427,7 @@
     {
       "id": "80197",
       "isValid": "",
-      "prompt": "Raconte-moi un fait intéressant sur l'océan. (Ou en inventer un.)",
+      "prompt": "Racontez-moi un fait intéressant sur l'océan. (Ou inventez-en une.)",
       "x": false
     },
     {
@@ -2451,13 +2451,13 @@
     {
       "id": "80474",
       "isValid": "",
-      "prompt": "Si vous étiez emporté par un ballon à l'hélium, que crieriez-vous du ciel ?",
+      "prompt": "Si vous étiez emporté par un ballon à l'hélium, que crieriez-vous dans le ciel ?",
       "x": false
     },
     {
       "id": "80945",
       "isValid": "",
-      "prompt": "Décrivez une fois où vous avez eu un contact avec une personne célèbre. (Ou inventer quelque chose !)",
+      "prompt": "Décrivez une fois où vous avez eu un contact avec une personne célèbre. (Ou inventez quelque chose !)",
       "x": false
     },
     {
@@ -2469,13 +2469,13 @@
     {
       "id": "80950",
       "isValid": "",
-      "prompt": "Vous pouvez avoir un personnage historique comme parrain fée. Qui choisiriez-vous et pourquoi ?",
+      "prompt": "Vous pouvez avoir un personnage historique comme parrain. Qui choisiriez-vous et pourquoi ?",
       "x": false
     },
     {
       "id": "80952",
       "isValid": "",
-      "prompt": "Quelle est l'histoire de votre cicatrice la plus folle ? (Ou en inventer une.)",
+      "prompt": "Quelle est l'histoire de votre cicatrice la plus folle ? (Ou inventez en une)",
       "x": false
     },
     {
@@ -2499,13 +2499,13 @@
     {
       "id": "80960",
       "isValid": "",
-      "prompt": "Si tu étais un démon, que faudrait-il faire pour t'invoquer ?",
+      "prompt": "Si vous étiez un démon, que faudrait-il faire pour vous invoquer ?",
       "x": false
     },
     {
       "id": "80961",
       "isValid": "",
-      "prompt": "Qu'est-ce qui vous manquera le plus lorsque vous quitterez ce plan terrestre ?",
+      "prompt": "Qu'est-ce qui vous manquera le plus dans 10 ans ?",
       "x": true
     },
     {
@@ -2595,7 +2595,7 @@
     {
       "id": "81039",
       "isValid": "",
-      "prompt": "Que feriez-vous avec 25 $ de plus ?",
+      "prompt": "Que feriez-vous avec 25€ de plus ?",
       "x": false
     },
     {
@@ -2667,7 +2667,7 @@
     {
       "id": "81135",
       "isValid": "",
-      "prompt": "Vous tombez sur une mallette pleine d'argent et de bonbons. Quelle est votre prochaine étape ?",
+      "prompt": "Vous tombez sur une mallette pleine d'argent et de bonbons. Que faites-vous ?",
       "x": false
     },
     {
@@ -2817,7 +2817,7 @@
     {
       "id": "81176",
       "isValid": "",
-      "prompt": "Quel est un de tes secrets banals que tu gardes sans raison ?",
+      "prompt": "Quel est un de vos secrets banals que vous gardez sans raison ?",
       "x": false
     },
     {
@@ -2859,13 +2859,13 @@
     {
       "id": "81186",
       "isValid": "",
-      "prompt": "Vous vous réveillez et vos cheveux sont concés dans un grille-pain. Que faites-vous ?",
+      "prompt": "Vous vous réveillez et vos cheveux sont coincés dans un grille-pain. Que faites-vous ?",
       "x": false
     },
     {
       "id": "81187",
       "isValid": "",
-      "prompt": "Quelle est probablement la partie la plus importante lorsque vous êtes un danceur ?",
+      "prompt": "Quelle est probablement la partie la plus importante lorsque vous êtes un danseur ?",
       "x": false
     },
     {
@@ -2949,7 +2949,7 @@
     {
       "id": "81204",
       "isValid": "",
-      "prompt": "Expliquez pourquoi la vinaigrette ranch est meilleure que la vinaigrette balsamique (ou vice versa).",
+      "prompt": "Expliquez pourquoi la vinaigrette mangue - citron vert est meilleure que la vinaigrette balsamique (ou vice versa).",
       "x": false
     },
     {
@@ -2967,7 +2967,7 @@
     {
       "id": "81207",
       "isValid": "",
-      "prompt": "Quelle est une opinion controversée sur les musées d'art?",
+      "prompt": "Quelle est une opinion controversée sur les musées d'art ?",
       "x": false
     },
     {
@@ -2991,7 +2991,7 @@
     {
       "id": "81212",
       "isValid": "",
-      "prompt": "Que dire à la fin d'un mauvais rendez-vous à l'aveugle ?",
+      "prompt": "Que dire à la fin d'un mauvais speed-dating ?",
       "x": true
     },
     {
@@ -3021,7 +3021,7 @@
     {
       "id": "81217",
       "isValid": "",
-      "prompt": "Nommez un objet que vous souhaiteriez fonctionner sur piles et expliquez pourquoi.",
+      "prompt": "Nommez un objet qui devrait, selon vous, fonctionner sur piles et expliquez pourquoi.",
       "x": false
     },
     {
@@ -3039,7 +3039,7 @@
     {
       "id": "81221",
       "isValid": "",
-      "prompt": "Quelle est probablement la meilleure chose à propos d'avoir un doigt supplémentaire sur chaque main ?",
+      "prompt": "Quelle est probablement la meilleure chose si vous aviez un doigt supplémentaire sur chaque main ?",
       "x": false
     },
     {
@@ -3195,7 +3195,7 @@
     {
       "id": "81255",
       "isValid": "",
-      "prompt": "Quel est le meilleur compliment que vous ayez reçu qui ne concerne PAS votre apparence ?",
+      "prompt": "Quel est le meilleur compliment que vous avez reçu qui ne concerne PAS votre apparence ?",
       "x": false
     },
     {
@@ -3207,7 +3207,7 @@
     {
       "id": "81257",
       "isValid": "",
-      "prompt": "Que pourriez-vous dire pour faire raccrocher un télévendeur immédiatement ?",
+      "prompt": "Que pourriez-vous dire pour faire raccrocher un vendeur par téléphone immédiatement ?",
       "x": false
     },
     {
@@ -3219,7 +3219,7 @@
     {
       "id": "81259",
       "isValid": "",
-      "prompt": "Qu'est-ce que c'est que quelque chose de fou auquel vous croyiez quand vous étiez enfant ?",
+      "prompt": "Donnez quelque chose de fou auquel vous croyiez quand vous étiez enfant ?",
       "x": false
     },
     {
@@ -3297,7 +3297,7 @@
     {
       "id": "81280",
       "isValid": "",
-      "prompt": "Comment un adolescent te décrirait-il ?",
+      "prompt": "Comment un adolescent vous décrirait-il ?",
       "x": false
     },
     {
@@ -3309,7 +3309,7 @@
     {
       "id": "81282",
       "isValid": "",
-      "prompt": "Dis-moi quelque chose d'un peu effrayant.",
+      "prompt": "Dites-moi quelque chose d'un peu effrayant.",
       "x": false
     },
     {
@@ -3363,13 +3363,13 @@
     {
       "id": "81294",
       "isValid": "",
-      "prompt": "Écrivez une phrase qui, selon vous, intéresserait un élève de cinquième année.",
+      "prompt": "Écrivez une phrase qui, selon vous, intéresserait un élève de CP.",
       "x": false
     },
     {
       "id": "81295",
       "isValid": "",
-      "prompt": "Dites-moi comment vous pensez que la nourriture se transforme en énergie.",
+      "prompt": "Comment pensez-vous que la nourriture se transforme en énergie ?",
       "x": false
     },
     {
@@ -3405,13 +3405,13 @@
     {
       "id": "81363",
       "isValid": "",
-      "prompt": "Décrivez comment vous pensez que les gens s'entraînent pour devenir majordomes.",
+      "prompt": "Décrivez comment les gens s'entraînent pour devenir majordomes.",
       "x": false
     },
     {
       "id": "81364",
       "isValid": "",
-      "prompt": "Quelles sont les choses que vous pensez que les chefs français aiment faire en vacances ?",
+      "prompt": "Les chefs de restaurant français partent en vacances. Qu'aiment ils faire ?",
       "x": false
     },
     {
@@ -3453,7 +3453,7 @@
     {
       "id": "81729",
       "isValid": "",
-      "prompt": "Décrivez la meilleure stratégie pour gagner une chasse aux œufs de Pâques.",
+      "prompt": "Décrivez la meilleure stratégie pour gagner une chasse aux oeufs de Pâques.",
       "x": false
     },
     {
@@ -3573,7 +3573,7 @@
     {
       "id": "81970",
       "isValid": "",
-      "prompt": "Parlez-moi de la dernière fois que vous étiez dans un parc à thème. (Ou inventer quelque chose.)",
+      "prompt": "Parlez-moi de la dernière fois où vous étiez dans un parc à thème. (Ou inventez quelque chose.)",
       "x": false
     },
     {
@@ -3585,7 +3585,7 @@
     {
       "id": "81973",
       "isValid": "",
-      "prompt": "Comment vous présenterais-vous à une personne cool ?",
+      "prompt": "Comment vous présenteriez-vous à une personne influente ?",
       "x": false
     },
     {
@@ -3609,13 +3609,13 @@
     {
       "id": "82411",
       "isValid": "",
-      "prompt": "Que pensez-vous que les chiens et les chats aiment font la nuit lorsque leurs propriétaires dorment ?",
+      "prompt": "Que pensez-vous que les chiens et les chats aiment faire la nuit lorsque leurs propriétaires dorment ?",
       "x": false
     },
     {
       "id": "82412",
       "isValid": "",
-      "prompt": "Quel est un rassemblement scolaire dont vous vous souvenez de votre enfance ?",
+      "prompt": "Quel voyage scolaire vous a marqué le plus et pourquoi ?",
       "x": false
     },
     {
@@ -3657,7 +3657,7 @@
     {
       "id": "82486",
       "isValid": "",
-      "prompt": "Comment pensez-vous que le pot-pourri est fait?",
+      "prompt": "Comment pensez-vous que le pot-pourri est fait ?",
       "x": false
     },
     {
@@ -3669,7 +3669,7 @@
     {
       "id": "82488",
       "isValid": "",
-      "prompt": "Quel est le secret pour construire le feu de camp parfait ? (Ou que pensez-vous que c'est?)",
+      "prompt": "Quel est le secret pour construire le feu de camp parfait ? (Si vous ne savez pas, inventez !)",
       "x": false
     },
     {
@@ -3681,7 +3681,7 @@
     {
       "id": "82497",
       "isValid": "",
-      "prompt": "Que feriez-vous si vous voyiez un vampire réel ?",
+      "prompt": "Que feriez-vous si vous voyiez un vampire ?",
       "x": false
     },
     {
@@ -3693,7 +3693,7 @@
     {
       "id": "82521",
       "isValid": "",
-      "prompt": "Pourquoi y a-t-il toujours une longue file d'attente à la pharmacie?",
+      "prompt": "Pourquoi y a-t-il toujours une longue file d'attente à la pharmacie ?",
       "x": false
     },
     {
@@ -3711,13 +3711,13 @@
     {
       "id": "82528",
       "isValid": "",
-      "prompt": "Parlez-moi de la maison la plus en désordre dans laquelle vous ayez été.",
+      "prompt": "Parlez-moi de la maison la plus en désordre dans laquelle vous avez été.",
       "x": false
     },
     {
       "id": "82530",
       "isValid": "",
-      "prompt": "Voudriez-vous un pied supplémentaire? Pourquoi ou pourquoi pas?",
+      "prompt": "Voudriez-vous un pied supplémentaire ? Pourquoi ou pourquoi pas ?",
       "x": false
     },
     {
