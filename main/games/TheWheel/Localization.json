@@ -144,7 +144,7 @@
         "FASTEST_ANSWER": "RÉPONSE LA PLUS RAPIDE",
 
         "SLICE_EFFECT_SWAPPOINTS_NAME": "ÉCHANGE\nDE POINTS",
-        "SLICE_EFFECT_SWAPPOINTS_DESCRIPTION": "MFaites échanger les points de deux autres joueurs",
+        "SLICE_EFFECT_SWAPPOINTS_DESCRIPTION": "Faites échanger les points de deux autres joueurs",
         "SLICE_EFFECT_SWAPPOINTS_PROMPT": "Choisissez deux joueurs. Ils échangeront leurs points.",
         
         "SLICE_EFFECT_EXPAND_NAME": "DOUBLE\nTRANCHE",
