@@ -44,7 +44,7 @@
             ],
             "id":"76698",
             "isValid":"",
-            "prompt":"Quels sont les ingrédients dans une salade césar traditionnelle ?",
+            "prompt":"Quels sont les ingrédients dans une salade César traditionnelle ?",
             "us":false,
             "x":false
         },
@@ -104,7 +104,7 @@
             ],
             "id":"76730",
             "isValid":"",
-            "prompt":" Quels mots sont dans la chanson \"Les Lacs du Connemara\" ?",
+            "prompt":"Quels mots sont dans la chanson \"Les Lacs du Connemara\" ?",
             "us":false,
             "x":false
         },
@@ -380,7 +380,7 @@
             ],
             "id":"76751",
             "isValid":"",
-            "prompt":"Lesquels de ces mots sont des poses de Yoga ?",
+            "prompt":"Lesquels de ces termes sont des poses de Yoga ?",
             "us":false,
             "x":false
         },
@@ -599,7 +599,7 @@
             ],
             "id":"76765",
             "isValid":"",
-            "prompt":"Lesquels de ces nombres ont un carré parfait",
+            "prompt":"Lesquels de ces nombres ont un carré parfait ?",
             "us":false,
             "x":false
         },
@@ -908,7 +908,7 @@
             ],
             "id":"76773",
             "isValid":"",
-            "prompt":"Lesquels de ces noms sont des noms de princesses Disney",
+            "prompt":"Lesquels de ces noms sont des noms de princesses Disney ?",
             "us":false,
             "x":false
         },
@@ -1019,7 +1019,7 @@
             ],
             "id":"76775",
             "isValid":"",
-            "prompt":"Quels phrases dit Jacques Dutronc dans la chanson \"Fais pas ci, fais pas ça\" ?",
+            "prompt":"Quelles phrases dit Jacques Dutronc dans la chanson \"Fais pas ci, fais pas ça\" ?",
             "us":false,
             "x":false
         },
@@ -1184,7 +1184,7 @@
             ],
             "id":"76778",
             "isValid":"",
-            "prompt":" Lequel de ces \"légumes\" sont, bizarrement, des fruits?",
+            "prompt":"Lequel de ces \"légumes\" sont, bizarrement, des fruits ?",
             "us":false,
             "x":false
         },
@@ -1241,7 +1241,7 @@
             ],
             "id":"76779",
             "isValid":"",
-            "prompt":" Lesquels de ces éléments sont de véritables éléments de [i]La Bucket List[/i] ?",
+            "prompt":"Lesquels de ces éléments sont de véritables éléments de la liste de [i]Sans plus attendre[/i] ?",
             "us":false,
             "x":false
         },
@@ -1613,7 +1613,7 @@
             ],
             "id":"76822",
             "isValid":"",
-            "prompt":"Lesquelles de ces couleurs sont des nuances de rouge?",
+            "prompt":"Lesquelles de ces couleurs sont des nuances de rouge ?",
             "us":false,
             "x":false
         },
@@ -1661,7 +1661,7 @@
             ],
             "id":"76823",
             "isValid":"",
-            "prompt":"Parmi ces gaz, lesquels sont des gaz nobles ?",
+            "prompt":"Parmi ces éléments chimiques, lesquels sont des gaz nobles ?",
             "us":false,
             "x":false
         },
@@ -1979,7 +1979,7 @@
             ],
             "id":"76852",
             "isValid":"",
-            "prompt":"Lesquels de ces noms sont de véritables jeux ''The Legend of Zelda\"?",
+            "prompt":"Lesquels de ces noms sont de véritables jeux \"The Legend of Zelda\"?",
             "us":false,
             "x":false
         },
@@ -2087,7 +2087,7 @@
             ],
             "id":"76854",
             "isValid":"",
-            "prompt":"Lesquelles de ces propositions sont des arts de la Renaissance ?",
+            "prompt":"Lesquelles de ces propositions sont des oeuvres de la Renaissance ?",
             "us":false,
             "x":false
         },
@@ -2100,19 +2100,19 @@
                     "text":"\"Le chat noir\""
                 },
                 {
-                    "text":"« Le cœur révélateur »"
+                    "text":"\"Le cœur révélateur\""
                 },
                 {
-                    "text":"« Le palais hanté »"
+                    "text":"\"Le palais hanté\""
                 },
                 {
                     "text":"\"L'inhumation prématuré\""
                 },
                 {
-                    "text":"« La lettre volée »"
+                    "text":"\"La lettre volée\""
                 },
                 {
-                    "text":"« La fosse et le pendule »"
+                    "text":"\"La fosse et le pendule\""
                 },
                 {
                     "text":"\"Le Masque de la mort rouge\""
@@ -2133,7 +2133,7 @@
                     "text":"\"Le Neveu du Magicien\""
                 },
                 {
-                    "text":"« Le hibou et le chaton »"
+                    "text":"\"Le hibou et le chaton\""
                 }
             ],
             "id":"76863",
@@ -2666,7 +2666,7 @@
             ],
             "id":"76957",
             "isValid":"",
-            "prompt":" Lesquelles de ces choses pourraient être brisées dans votre canoë ?",
+            "prompt":"Lesquelles de ces choses pourraient être brisées dans votre canoë ?",
             "us":false,
             "x":false
         },
@@ -2964,7 +2964,7 @@
                     "text":"Opéra de Disney"
                 },
                 {
-                    "text":"Les statuts Moaï de l'Ile de Paques"
+                    "text":"Les statuts Moaï de l'Ile de Pâques"
                 },
                 {
                     "text":"Tour Eiffel"
@@ -3227,7 +3227,7 @@
             ],
             "id":"77357",
             "isValid":"",
-            "prompt":"Quels sont les noms immortels des anciens utilisés dans l'acronyme S.H.A.Z.A.M. ?",
+            "prompt":"Quels sont les noms immortels des anciens utilisés dans l'acronyme S.H.A.Z.A.M. ?",
             "us":false,
             "x":false
         },
@@ -3344,7 +3344,7 @@
             ],
             "id":"77639",
             "isValid":"",
-            "prompt":"Quels sont les titres originaux de ces [i]Chair de poule [/i]?",
+            "prompt":"Quels sont les titres originaux de ces [i]Chair de poule[/i]?",
             "us":false,
             "x":false
         },
@@ -3620,7 +3620,7 @@
             ],
             "id":"77657",
             "isValid":"",
-            "prompt":"Lesquels de ces presonnages sont secondaires dans l'univers de [i]Star Wars[/i]?",
+            "prompt":"Lesquels de ces personnages sont secondaires dans l'univers de [i]Star Wars[/i]?",
             "us":false,
             "x":false
         },
@@ -3827,7 +3827,7 @@
             ],
             "id":"77674",
             "isValid":"",
-            "prompt":"Quels pays sont frontaliers à l'Allemagne?",
+            "prompt":"Quels pays sont frontaliers à l'Allemagne ?",
             "us":false,
             "x":false
         },
@@ -4277,7 +4277,7 @@
             ],
             "id":"77713",
             "isValid":"",
-            "prompt":"Lesquelles de ces paroles font partie de la chanson ''les démons de minuit\"",
+            "prompt":"Lesquelles de ces paroles font partie de la chanson \"Les démons de minuit\" ?",
             "us":false,
             "x":false
         },
@@ -4385,7 +4385,7 @@
             ],
             "id":"77795",
             "isValid":"",
-            "prompt":"Lesquelles sont de vraies constellations?",
+            "prompt":"Lesquelles sont de vraies constellations ?",
             "us":false,
             "x":false
         },
@@ -4449,7 +4449,7 @@
         {
             "answers":[
                 {
-                    "text":"[i]Annie Hall/i]"
+                    "text":"[i]Annie Hall[/i]"
                 },
                 {
                     "text":"[i]Hannah et ses sœurs[/i]"
@@ -4538,7 +4538,7 @@
             ],
             "id":"77822",
             "isValid":"",
-            "prompt":"Lesquels sont considérés comme des orifices humains? (c.à.d; trous dans ton corps)",
+            "prompt":"Lesquels sont considérés comme des orifices humains? (c.à.d; trous dans votre corps)",
             "us":false,
             "x":true
         },
@@ -4640,7 +4640,7 @@
             ],
             "id":"77824",
             "isValid":"",
-            "prompt":"Quels noms peuvent être attribués des éléments de la Mythologie Grecque?",
+            "prompt":"Quels noms peuvent être attribués à des éléments de la Mythologie Grecque ?",
             "us":false,
             "x":false
         },
@@ -4659,7 +4659,7 @@
                     "text":"Rose"
                 },
                 {
-                    "text":"Pensé"
+                    "text":"Pensée"
                 },
                 {
                     "text":"Souci"
@@ -4688,7 +4688,7 @@
             ],
             "id":"77858",
             "isValid":"",
-            "prompt":"Parmis celles-ci, quelles fleurs sont à la fois réelles et commestibles?",
+            "prompt":"Parmi celles-ci, quelles fleurs sont à la fois réelles et comestibles ?",
             "us":false,
             "x":false
         },
@@ -4739,14 +4739,14 @@
             ],
             "id":"77924",
             "isValid":"",
-            "prompt":"Quels acteurs ont joué Hamlet en film ou a la télé?",
+            "prompt":"Quels acteurs ont joué Hamlet en film ou a la télé ?",
             "us":false,
             "x":false
         },
         {
             "answers":[
                 {
-                    "text":"Méthode de Ferber"
+                    "text":"méthode de Ferber"
                 },
                 {
                     "text":"extinction"
@@ -4767,7 +4767,7 @@
             "category":"Science & Medicine",
             "decoys":[
                 {
-                    "text":"méthode dite \"tucker 'em out\""
+                    "text":"méthode dite \"du bordage\""
                 },
                 {
                     "text":"méthode des antihistaminiques"
@@ -4787,7 +4787,7 @@
             ],
             "id":"77926",
             "isValid":"",
-            "prompt":"Quelles sont les techniques reconnues pour faire dormir un bébé?",
+            "prompt":"Quelles sont les techniques reconnues pour faire dormir un bébé ?",
             "us":false,
             "x":false
         },
@@ -4835,7 +4835,7 @@
             ],
             "id":"77945",
             "isValid":"",
-            "prompt":"Parmi ces personnages, lesquels sont de [i]Foster, la maison des amis imaginaires[/i]",
+            "prompt":"Parmi ces personnages, lesquels sont de [i]Foster, la maison des amis imaginaires[/i] ?",
             "us":false,
             "x":false
         },
@@ -5406,13 +5406,13 @@
                     "text":"[i]Wall-E[/i]"
                 },
                 {
-                    "text":"[i]The Incredibles[/i]"
+                    "text":"[i]Les Indestructibles[/i]"
                 },
                 {
-                    "text":"[i]Finding Nemo[/i]"
+                    "text":"[i]Nemo[/i]"
                 },
                 {
-                    "text":"[i]A Bug's Life[/i]"
+                    "text":"[i]1001 pattes[/i]"
                 },
                 {
                     "text":"[i]Soul[/i]"
@@ -5421,10 +5421,10 @@
             "category":"Film & TV",
             "decoys":[
                 {
-                    "text":"[i]The Boss Baby[/i]"
+                    "text":"[i]Baby Boss[/i]"
                 },
                 {
-                    "text":"[i]How to Train Your Dragon[/i]"
+                    "text":"[i]Dragons[/i]"
                 },
                 {
                     "text":"[i]Madagascar[/i]"
@@ -6810,7 +6810,7 @@
                     "text":"[i]Les Cheetah Girls[/i]"
                 },
                 {
-                    "text":"[High School Musical[/i]"
+                    "text":"[i]High School Musical[/i]"
                 },
                 {
                     "text":"[i]Camp Rock[/i]"
@@ -6828,7 +6828,7 @@
                     "text":"[i]Le chien président[/i]"
                 },
                 {
-                    "text":"[Mon frère est un extraterrestre[/i]"
+                    "text":"[i]Mon frère est un extraterrestre[/i]"
                 },
                 {
                     "text":"[i]Les sirènes[/i]"
@@ -7314,10 +7314,10 @@
                     "text":"Rouge"
                 },
                 {
-                    "text":"Atlantique"
+                    "text":"de l'Atlantique"
                 },
                 {
-                    "text":"Chien"
+                    "text":"du Pacifique"
                 }
             ],
             "category":"Animals",
@@ -7343,7 +7343,7 @@
             ],
             "id":"78606",
             "isValid":"",
-            "prompt":"Lesquels de ces noms sont des variétés de poisson ?",
+            "prompt":"Lesquels de ces noms sont des variétés de saumon ?",
             "us":false,
             "x":false
         },
@@ -7535,7 +7535,7 @@
             ],
             "id":"78676",
             "isValid":"",
-            "prompt":"Lesquels de ces mois ont 31 jours?",
+            "prompt":"Lesquels de ces mois ont 31 jours ?",
             "us":false,
             "x":false
         },
@@ -7590,49 +7590,49 @@
         {
             "answers":[
                 {
-                    "text":"“You Belong With Me”"
+                    "text":"\"You Belong With Me\""
                 },
                 {
-                    "text":"“All Too Well”"
+                    "text":"\"All Too Well\""
                 },
                 {
-                    "text":"“Fifteen”"
+                    "text":"\"Fifteen\""
                 },
                 {
-                    "text":"“We Are Never Ever Getting Back Together”"
+                    "text":"\"We Are Never Ever Getting Back Together\""
                 },
                 {
-                    "text":"“Shake It Off”"
+                    "text":"\"Shake It Off\""
                 },
                 {
-                    "text":"“Blank Space”"
+                    "text":"\"Blank Space\""
                 },
                 {
-                    "text":"“Love Story”"
+                    "text":"\"Love Story\""
                 },
                 {
-                    "text":"“I Knew You Were Trouble.”"
+                    "text":"\"I Knew You Were Trouble.\""
                 },
                 {
-                    "text":"“Bad Blood”"
+                    "text":"\"Bad Blood\""
                 },
                 {
-                    "text":"“Look What You Made Me Do”"
+                    "text":"\"Look What You Made Me Do\""
                 }
             ],
             "category":"Music",
             "decoys":[
                 {
-                    "text":"“Bad Romance”"
+                    "text":"\"Bad Romance\""
                 },
                 {
-                    "text":"“Wrecking Ball”"
+                    "text":"\"Wrecking Ball\""
                 },
                 {
-                    "text":"“Call Me Maybe”"
+                    "text":"\"Call Me Maybe\""
                 },
                 {
-                    "text":"“Complicated”"
+                    "text":"\"Complicated\""
                 }
             ],
             "id":"78681",
@@ -8145,7 +8145,7 @@
             ],
             "id":"78865",
             "isValid":"",
-            "prompt":"Lesquels de ces vilains existent dans la magnifique BD ''Captain Biceps''",
+            "prompt":"Lesquels de ces vilains existent dans la magnifique BD [i]Captain Biceps[/i] ?",
             "us":false,
             "x":false
         },
@@ -8155,10 +8155,10 @@
                     "text":"Harley Quinn"
                 },
                 {
-                    "text":"hibou"
+                    "text":"Hibou"
                 },
                 {
-                    "text":"épervier"
+                    "text":"Epervier"
                 },
                 {
                     "text":"Black Canary"
@@ -8167,13 +8167,13 @@
                     "text":"Huntress"
                 },
                 {
-                    "text":"faucon"
+                    "text":"Faucon"
                 },
                 {
                     "text":"Renee Montoya"
                 },
                 {
-                    "text":"vautour"
+                    "text":"Vautour"
                 }
             ],
             "category":"Animals",
@@ -8182,13 +8182,13 @@
                     "text":"Oeil de Faucon"
                 },
                 {
-                    "text":"mockingjay"
+                    "text":"Mockingjay"
                 },
                 {
                     "text":"Birdgirl"
                 },
                 {
-                    "text":"cardinal"
+                    "text":"Cardinal"
                 }
             ],
             "id":"78874",
@@ -8820,7 +8820,7 @@
             ],
             "id":"79201",
             "isValid":"",
-            "prompt":"Lesquels de ces titres sont des oeuvres du grand Victor Hugo?",
+            "prompt":"Lesquels de ces titres sont des oeuvres du grand Victor Hugo ?",
             "us":false,
             "x":false
         },
@@ -8928,7 +8928,7 @@
             ],
             "id":"79327",
             "isValid":"",
-            "prompt":"Lesquels sont des types de poèmes ?",
+            "prompt":"Lesquels de ces termes sont des types de poèmes ?",
             "us":false,
             "x":false
         },
@@ -9093,7 +9093,7 @@
             ],
             "id":"79409",
             "isValid":"",
-            "prompt":"Quels sont les longs métrages qui sont à l'origine des pièces de théâtre ?",
+            "prompt":"Quels longs métrages sont à l'origine des pièces de théâtre ?",
             "us":false,
             "x":false
         },
@@ -9426,7 +9426,7 @@
             ],
             "id":"79425",
             "isValid":"",
-            "prompt":"En 2020, lequel de ces messieurs a été désigné comme l'homme vivant le plus sexy par [i]People[/i] ?",
+            "prompt":"Avant 2020, lequel de ces messieurs a été désigné comme l'Homme Vivant le plus Sexy par [i]People[/i] ?",
             "us":false,
             "x":false
         },
@@ -9972,7 +9972,7 @@
             ],
             "id":"79494",
             "isValid":"",
-            "prompt":"Lequel de ces pays se trouve en Amérique du Sud ?",
+            "prompt":"Lesquels de ces pays se trouvent en Amérique du Sud ?",
             "us":false,
             "x":false
         },
@@ -10068,7 +10068,7 @@
             ],
             "id":"79654",
             "isValid":"",
-            "prompt":"Quels mots sont répétés dans \"Toi + Moi\" de Grégoire ? ",
+            "prompt":"Quels mots sont répétés dans \"Toi + Moi\" de Grégoire ?",
             "us":false,
             "x":false
         },
@@ -10473,7 +10473,7 @@
             ],
             "id":"79805",
             "isValid":"",
-            "prompt":"Lesquels de ces films sont des [i]films Star Trek[/i] ?",
+            "prompt":"Lesquels de ces films sont des films [i]Star Trek[/i] ?",
             "us":false,
             "x":false
         },
@@ -10578,7 +10578,7 @@
             ],
             "id":"79853",
             "isValid":"",
-            "prompt":"À partir de 2020, lesquelles de ces célébrités ont prêté leur voix aux [i]Simpsons[/i] ?",
+            "prompt":"Jusqu'à 2020, lesquelles de ces célébrités ont prêté leur voix aux [i]Simpsons[/i] ?",
             "us":false,
             "x":false
         },
@@ -11287,7 +11287,7 @@
             ],
             "id":"80309",
             "isValid":"",
-            "prompt":"Lesquels figurent parmi les 12 premiers personnages jouables de Super Smash Bros ?",
+            "prompt":"Lesquels de ces personnages ont été les 12 premiers personnages jouables dans Super Smash Bros ?",
             "us":false,
             "x":false
         },
@@ -11491,7 +11491,7 @@
             ],
             "id":"80455",
             "isValid":"",
-            "prompt":"Lesquelles de ces questions existent dans la chanson ''Les questions\" d'Aldebert ?",
+            "prompt":"Lesquelles de ces questions existent dans la chanson \"Les questions\" d'Aldebert ?",
             "us":false,
             "x":false
         },
@@ -11777,7 +11777,7 @@
                     "text":"[i]Guerre et Paix[/i] de Léon Tolstoï"
                 },
                 {
-                    "text":"[i]Infinite Jest[/i] de David Foster Wallace"
+                    "text":"[i]L'Infinie Comédie[/i] de David Foster Wallace"
                 },
                 {
                     "text":"[i]Les Misérables[/i] de Victor Hugo"
@@ -11908,7 +11908,7 @@
             ],
             "id":"82094",
             "isValid":"",
-            "prompt":"Qui sont les amis de Winnie l'ourson ?",
+            "prompt":"Qui sont les amis de Winnie l'Ourson ?",
             "us":false,
             "x":false
         },
@@ -12196,7 +12196,7 @@
             ],
             "id":"82104",
             "isValid":"",
-            "prompt":"Quels sont les organes qui font partie du système endocrinien ?",
+            "prompt":"Quels sont les organes faisant partie du système endocrinien ?",
             "us":false,
             "x":false
         },
@@ -12455,10 +12455,10 @@
                     "text":"Yakoutie"
                 },
                 {
-                    "text":"Ouest des États-Unis"
+                    "text":"États de l'Ouest"
                 },
                 {
-                    "text":"Kamchatka"
+                    "text":"Kamtchatka"
                 },
                 {
                     "text":"Argentine"
@@ -12697,7 +12697,7 @@
             ],
             "id":"82693",
             "isValid":"",
-            "prompt":"Qui étaient les superstars de la musique pop de l'\"explosion latine\" de 1999 ?",
+            "prompt":"Qui étaient les superstars de la musique pop de \"l'Explosion Latine\" de 1999 ?",
             "us":false,
             "x":false
         },
@@ -13195,7 +13195,7 @@
             ],
             "id":"82869",
             "isValid":"",
-            "prompt":"Lesquelles de ces monuments sont les merveilles du monde antique ?",
+            "prompt":"Lesquels de ces monuments sont les merveilles du monde antique ?",
             "us":false,
             "x":false
         },
@@ -13351,7 +13351,7 @@
             ],
             "id":"82899",
             "isValid":"",
-            "prompt":"À partir de 2020, lesquels de ces personnes, groupes ou concepts ont été nommés \"Personnalité de l'année\" par le magazine [i]Time[/i] ?",
+            "prompt":"Jusqu'en 2020, lesquels de ces personnes, groupes ou concepts ont été nommés \"Personnalité de l'année\" par le magazine [i]Time[/i] ?",
             "us":false,
             "x":false
         },
@@ -13522,7 +13522,7 @@
             ],
             "id":"82934",
             "isValid":"",
-            "prompt":"À partir de 2020, lesquels de ces films ont produit l'une des dix bandes originales les plus vendues de tous les temps ?",
+            "prompt":"Jusqu'en 2020, lesquels de ces films ont produit l'une des dix bandes originales les plus vendues de tous les temps ?",
             "us":false,
             "x":false
         },
@@ -14170,7 +14170,7 @@
             ],
             "id":"84261",
             "isValid":"",
-            "prompt":"Lesquels de ces gentilés existent ?",
+            "prompt":"Lesquels de ces gentilés (AKA nom d'habitants d'une ville) existent ?",
             "us":false,
             "x":false
         },
@@ -14218,7 +14218,7 @@
             ],
             "id":"84752",
             "isValid":"",
-            "prompt":"Lesquels de ces types de voix sont des voix de chant ?",
+            "prompt":"Lesquels de ces termes sont des voix de chant ?",
             "us":false,
             "x":false
         },
@@ -14314,7 +14314,7 @@
             ],
             "id":"84779",
             "isValid":"",
-            "prompt":"À partir de 2020, lesquels de ces animaux sont éteints ?",
+            "prompt":"Jusqu'en 2020, lesquelles de ces espèces animales ont disparu ?",
             "us":false,
             "x":false
         },
@@ -14891,43 +14891,43 @@
         {
             "answers":[
                 {
-                    "text":"Twist It!"
+                    "text":"Tords !"
                 },
                 {
-                    "text":"Pull It!"
+                    "text":"Tire !"
                 },
                 {
-                    "text":"Spin It!"
+                    "text":"Tourne !"
                 },
                 {
-                    "text":"Flick It!"
+                    "text":"Pichnette !"
                 },
                 {
-                    "text":"Bop It!"
+                    "text":"Bop It !"
                 },
                 {
-                    "text":"Shout It!"
+                    "text":"Crie !"
                 },
                 {
-                    "text":"Shake It!"
+                    "text":"Secoue !"
                 }
             ],
             "category":"Games",
             "decoys":[
                 {
-                    "text":"Throw it!"
+                    "text":"Lance !"
                 },
                 {
-                    "text":"Punch it!"
+                    "text":"Frappe !"
                 },
                 {
-                    "text":"Smell it!"
+                    "text":"Sens !"
                 },
                 {
-                    "text":"Switch it!"
+                    "text":"Echange !"
                 },
                 {
-                    "text":"Bend it!"
+                    "text":"Plie !"
                 }
             ],
             "id":"85442",
@@ -14939,43 +14939,43 @@
         {
             "answers":[
                 {
-                    "text":"[i]Les Gazelles{/i]"
+                    "text":"[i]Les Gazelles[/i]"
                 },
                 {
-                    "text":"[i]Mon Inconnue{/i]"
+                    "text":"[i]Mon Inconnue[/i]"
                 },
                 {
-                    "text":"[i]Victoria{/i]"
+                    "text":"[i]Victoria[/i]"
                 },
                 {
-                    "text":"[i]Deux Moi{/i]"
+                    "text":"[i]Deux Moi[/i]"
                 },
                 {
-                    "text":"[i]Sous le même toit{/i]"
+                    "text":"[i]Sous le même toit[/i]"
                 },
                 {
-                    "text":"[i]Jour J{/i]"
+                    "text":"[i]Jour J[/i]"
                 },
                 {
-                    "text":"[i]Un homme à la hauteur{/i]"
+                    "text":"[i]Un homme à la hauteur[/i]"
                 }
             ],
             "category":"Film & TV",
             "decoys":[
                 {
-                    "text":"[i]Love à la Carte{/i]"
+                    "text":"[i]Love à la Carte[/i]"
                 },
                 {
-                    "text":"[i]Amour en Pixels{/i]"
+                    "text":"[i]Amour en Pixels[/i]"
                 },
                 {
-                    "text":"[i]Coup de Foudre à Paris-Plage{/i]"
+                    "text":"[i]Coup de Foudre à Paris-Plage[/i]"
                 },
                 {
-                    "text":"[i]Un Été Enchanté{/i]"
+                    "text":"[i]Un Été Enchanté[/i]"
                 },
                 {
-                    "text":"[i]Amour Cosmique{/i]"
+                    "text":"[i]Amour Cosmique[/i]"
                 }
             ],
             "id":"85444",
@@ -15080,7 +15080,7 @@
                     "text":"Le Végétarien"
                 },
                 {
-                    "text":"Jurassicasaurus"
+                    "text":"Jurassicausaure"
                 }
             ],
             "id":"85463",
@@ -15353,7 +15353,7 @@
         {
             "answers":[
                 {
-                    "text":"'Rowdy'' Roddy Piper"
+                    "text":"'Rowdy' Roddy Piper"
                 },
                 {
                     "text":"John Cena"
@@ -15380,7 +15380,7 @@
             "category":"Sports",
             "decoys":[
                 {
-                    "text":"'Nacho Man'' Rodney Sewage"
+                    "text":"'Nacho Man' Rodney Sewage"
                 },
                 {
                     "text":"Le Buffet"
@@ -15389,7 +15389,7 @@
                     "text":"Dan Glamour"
                 },
                 {
-                    "text":"'Not Polite'' Mark McMeanerson"
+                    "text":"'Not Polite' Mark McMeanerson"
                 }
             ],
             "id":"85641",
@@ -15499,7 +15499,7 @@
             ],
             "id":"85645",
             "isValid":"",
-            "prompt":"Lesquels de ces modèles sont des chapeaux ?",
+            "prompt":"Lesquels de ces modèles sont des couvre-chefs ?",
             "us":false,
             "x":false
         },
@@ -15556,7 +15556,7 @@
             ],
             "id":"85646",
             "isValid":"",
-            "prompt":"À partir de 2020, quelles créatures horribles ont été utilisées comme déguisements dans la version française de [i]Mask Singer[/i] ?",
+            "prompt":"Jusqu'en 2020, quelles créatures horribles ont été utilisées comme déguisements dans la version française de [i]Mask Singer[/i] ?",
             "us":false,
             "x":false
         },
@@ -15802,7 +15802,7 @@
             ],
             "id":"85719",
             "isValid":"",
-            "prompt":"À partir de 2021, lesquels de ces acteurs ont incarné James Bond au cinéma ou à la télévision ?",
+            "prompt":"Jusqu'en 2021, lesquels de ces acteurs ont incarné James Bond au cinéma ou à la télévision ?",
             "us":false,
             "x":false
         },
@@ -16379,7 +16379,7 @@
             ],
             "id":"86010",
             "isValid":"",
-            "prompt":"Lesquels de ces personnages sont des Autobots de la série ''Transformers'' ?",
+            "prompt":"Lesquels de ces personnages sont des Autobots de la série \"Transformers\" ?",
             "us":false,
             "x":false
         },
@@ -16547,7 +16547,7 @@
             ],
             "id":"86023",
             "isValid":"",
-            "prompt":"Parmi les personnes suivantes, laquelle a été championne du monde incontestée de boxe poids lourd ?",
+            "prompt":"Parmi les personnes suivantes, lesquelles ont été championnes du monde incontestées de boxe poids lourd ?",
             "us":false,
             "x":false
         },
@@ -16697,7 +16697,7 @@
             ],
             "id":"86068",
             "isValid":"",
-            "prompt":"Quels Kong font partie de l'arbre généalogique de Donkey Kong ?",
+            "prompt":"Quels Kongs font partie de l'arbre généalogique de Donkey Kong ?",
             "us":false,
             "x":false
         },
@@ -17102,7 +17102,7 @@
             ],
             "id":"86378",
             "isValid":"",
-            "prompt":"À partir de 2018, lesquels de ces pays ont remporté une quelconque médaille olympique en curling, alias \"le sport des dieux\"?",
+            "prompt":"Jusqu'en 2018, lesquels de ces pays ont remporté une quelconque médaille olympique en curling, alias \"le sport des dieux\"?",
             "us":false,
             "x":true
         },
@@ -17190,7 +17190,7 @@
                     "text":"[i]28 jours[/i]"
                 },
                 {
-                    "text":"[i]The Boss Baby[/i]"
+                    "text":"[i]Baby Boss[/i]"
                 },
                 {
                     "text":"[i]Le flic de Beverly Hills 2[/i]"
@@ -17993,7 +17993,7 @@
             ],
             "id":"86501",
             "isValid":"",
-            "prompt":"Lesquelles de ces journées existent vraiment ?",
+            "prompt":"Lesquels de ces journaux existent vraiment ?",
             "us":false,
             "x":false
         },
@@ -18291,57 +18291,57 @@
         {
             "answers":[
                 {
-                    "text":""
+                    "text":"Villeneuve"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-d'Ascq"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-lès-Montréal"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-aux-Riches-Hommes"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-Tolosane"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-lès-Bouloc"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-la-Dondagre"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-sous-Pymont"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-les-Sablons"
                 }
             ],
             "category":"Animals",
             "decoys":[
                 {
-                    "text":""
+                    "text":"Villeneuve-sur-Mer"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-la-Crô"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-Lès-Corniaux"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-la-Péchotte"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-aux-Fâgnes"
                 },
                 {
-                    "text":""
+                    "text":"Villeneuve-sous-la-Lune"
                 }
             ],
             "id":"86547",
             "isValid":"",
-            "prompt":"",
+            "prompt":"Lesquelles de ces Villeneuve existent réellement ?",
             "us":false,
             "x":false
         },
